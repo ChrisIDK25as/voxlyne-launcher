@@ -1,7 +1,24 @@
 [
   {
-    "title": "VOXLYNE 1.0.6 megjelent",
-    "date": "2026-07-23",
-    "text": "TESZT"
+    "version": "v1.0.2",
+    "date": "2026-03-20",
+    "title": "Gyorsabb indítás és hibajavítások",
+    "tag": "Frissítés",
+    "changes": [
+      "30%-kal gyorsabb Java felismerés",
+      "Javítva a skin betöltési hiba",
+      "Új gomb a logok mentéséhez"
+    ]
+  },
+  {
+    "version": "v1.0.0",
+    "date": "2026-03-01",
+    "title": "Első hivatalos kiadás!",
+    "tag": "Kiadás",
+    "changes": [
+      "Letisztult UI",
+      "Automatikus verziólista frissítés",
+      "Alacsony RAM használat"
+    ]
   }
 ]
