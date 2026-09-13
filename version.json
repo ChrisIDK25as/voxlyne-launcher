@@ -1,6 +1,7 @@
 {
-  "modHash": "81A812D7AAE51D46E5419C2017065B897C2CB8B35B062375C97E743E8BDD1EC7",
-  "modUrl": "https://github.com/ChrisIDK25as/server-hwid/raw/refs/heads/main/server-hwid.jar",
+  "modHash": "250B6CC8734347753741A5307AC3D901E1102AC56F77F67FB8B3B9E60ADADDC1",
+  "modUrl": "https://github.com/ChrisIDK25as/voxlyne-launcher/raw/refs/heads/main/server-hwid.jar",
+  "modSigUrl": "https://github.com/ChrisIDK25as/voxlyne-launcher/raw/refs/heads/main/server-hwid.jar.sig",
   "launcherVersion": "1.2.4",
   "launcherDownloadUrl": "https://discord.gg/rewymc",
   "serverIp": "play.rewymc.hu"
